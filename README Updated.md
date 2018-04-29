@@ -9,3 +9,6 @@ The motion of the hand can be sensed by using an accelerometer ADLX 330. We use 
 ### Source Codes
 The above uploaded codes are split as various files, mainly because the components like the accelerometer needed to be calibrated for motion sensing before we could integrate it into the system.
 ### Screenshots of the model
+#### Calibration of the components and interfacing them in the Arduino IDE
+![20160115_233030](https://user-images.githubusercontent.com/13203059/39405681-43e4d0d2-4ba9-11e8-87b0-5ea5ab5342bd.jpg)
+
