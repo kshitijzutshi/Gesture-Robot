@@ -11,4 +11,7 @@ The above uploaded codes are split as various files, mainly because the componen
 ### Screenshots of the model
 #### Calibration of the components and interfacing them in the Arduino IDE
 ![20160115_233030](https://user-images.githubusercontent.com/13203059/39405681-43e4d0d2-4ba9-11e8-87b0-5ea5ab5342bd.jpg)
+#### Assembled the robot model ready for test run
+
+![20160116_163201](https://user-images.githubusercontent.com/13203059/39405695-9d739eda-4ba9-11e8-8e7f-0d4fd2df3a5a.jpg)
 
